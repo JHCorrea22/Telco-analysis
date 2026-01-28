@@ -1,1 +1,1 @@
-# Telco-analysis
+In this project we revisited the telco costumers. First we make an EDA analysis to visualize the trends and the correlation between the features and target, after the pre-processing step we go to use machine learning algortihm to estimate the best predictions. Likewise, we use Keras framework to analyze the predictions using neural netowrks.
